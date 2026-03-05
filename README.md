@@ -1,14 +1,14 @@
-# Nerfies
+# How Human Motion Prediction Quality Shapes Social Robot Navigation Performance in Constrained Spaces 
 
-This is the repository that contains source code for the [Nerfies website](https://nerfies.github.io).
+This is the repository that contains source code for the [Pred2Nav study website](https://fluentrobotics.com/pred2nav/).
 
-If you find Nerfies useful for your work please cite:
+If you find the study, its code, or its data useful for your work please cite:
 ```
-@article{park2021nerfies
-  author    = {Park, Keunhong and Sinha, Utkarsh and Barron, Jonathan T. and Bouaziz, Sofien and Goldman, Dan B and Seitz, Steven M. and Martin-Brualla, Ricardo},
-  title     = {Nerfies: Deformable Neural Radiance Fields},
-  journal   = {ICCV},
-  year      = {2021},
+@article{stratton2026pred2nav,
+  author    = {Stratton, Andrew and Singamaneni, Phani Teja and Goyal, Pranav and Alami, Rachid and Mavrogiannis, Christoforos},
+  title     = {How Human Motion Prediction Quality Shapes Social Robot Navigation Performance in Constrained Spaces},
+  journal   = {Proceedings of the 2026 International Conference on Human Robot Interaction},
+  year      = {2026},
 }
 ```
 
